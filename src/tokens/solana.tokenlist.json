@@ -16,7 +16,10 @@
       "name": "YIPPEE",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/OTi8HRX.png",
-      "tags": ["community"]
+      "tags": ["community"],
+      "extensions": {
+        "website": "https://x.com/CoinYIPPEE"
+      }
     }
   ]
 }
